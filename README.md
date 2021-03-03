@@ -24,5 +24,3 @@ Instructions:
 5. Upload my-deployment-package.zip to Lambda Function
 6. Set timeout to 8 seconds on AWS Lambda Function
 7. Create AWS Event Bridge to run Lambda Function at a fixed interval every 15 minutes
-
-“Copyright (c) 2020 Cisco Systems, Inc. and/or its affiliates”
